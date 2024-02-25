@@ -18,6 +18,7 @@
 - https://github.com/RocketChat/Rocket.Chat.ReactNative
 - https://github.com/Expensify/App
 - https://github.com/Uniswap/interface/tree/main/apps/mobile
+- https://github.com/indranilbhuin/zero
 
 ## Interview Qs
  - https://github.com/samsoul16/react-native-interview-questions
